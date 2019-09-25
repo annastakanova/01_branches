@@ -1,6 +1,5 @@
-//Составить программу: определения наименьшего из двух чисел а и b.
-
 package com.epam;
+//Составить программу: определения наименьшего из двух чисел а и b.
 
 public class Task05c {
     public static void main(String[] args) {
