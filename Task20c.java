@@ -1,8 +1,5 @@
-//Определить, делителем каких чисел а, b, с является число k.
-
-//каких ИЗ??? чисел
-
 package com.epam;
+//Определить, делителем каких чисел а, b, с является число k.
 
 public class Task20c {
     public static void main(String[] args) {
