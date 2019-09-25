@@ -1,6 +1,5 @@
-//Составить программу: определения наибольшего из двух чисел а и b
-
 package com.epam;
+//Составить программу: определения наибольшего из двух чисел а и b
 
 public class Task06c {
     public static void main(String[] args) {
