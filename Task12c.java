@@ -1,7 +1,6 @@
-//Даны три действительных числа.
-// Возвести в квадрат те из них, значения которых неотрицательны, и в четвертую степень — отрицательные.
-
 package com.epam;
+//Даны три действительных числа.
+// Возвести в квадрат те из них, значения которых неотрицательны, и в четвертую степень — отрицательные.
 
 public class Task12c {
     public static void main(String[] args) {
@@ -14,7 +13,5 @@ public class Task12c {
             else System.out.println(Math.pow(b, 4));
         if (c>=0) System.out.println(Math.pow(c, 2));
             else System.out.println(Math.pow(c, 4));
-
-
     }
 }
