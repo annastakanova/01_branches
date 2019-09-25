@@ -1,6 +1,5 @@
-//Составить программу нахождения модуля выражения a*x*x + b*x + c при заданных значениях a, b, c и х
-
 package com.epam;
+//Составить программу нахождения модуля выражения a*x*x + b*x + c при заданных значениях a, b, c и х
 
 public class Task07c {
     public static void main(String[] args) {
