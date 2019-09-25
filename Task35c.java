@@ -1,6 +1,6 @@
+package com.epam;
 //Вычислить число и месяц в невисокосном году по номеру дня.
 
-package com.epam;
 import java.util.Scanner;
 
 public class Task35c {
