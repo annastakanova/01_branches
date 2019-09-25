@@ -1,7 +1,7 @@
+package com.epam;
 //Программа — льстец. На экране высвечивается вопрос «Кто ты: мальчик или девочка? Введи Д или М».
 // В зависимости от ответа на экране должен появиться текст «Мне нравятся девочки!» или «Мне нравятся мальчики!».
 
-package com.epam;
 import java.util.Scanner;
 
 public class Task21c {
@@ -16,6 +16,5 @@ public class Task21c {
             System.out.println("Мне нравятся мальчики!");
         else
             System.out.println("Неверный ввод");
-
     }
 }
