@@ -1,6 +1,5 @@
-//Подсчитать количество положительных среди чисел а, b, с.
-
 package com.epam;
+//Подсчитать количество положительных среди чисел а, b, с.
 
 public class Task19c {
     public static void main(String[] args) {
