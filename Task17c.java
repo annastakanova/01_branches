@@ -1,8 +1,7 @@
+package com.epam;
 //Даны целые числа m, n.
 // Если числа не равны, то заменить каждое из них одним и тем же числом, равным большему из исходных,
 // а если равны, то заменить числа нулями.
-
-package com.epam;
 
 public class Task17c {
     public static void main(String[] args) {
