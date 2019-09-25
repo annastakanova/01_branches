@@ -1,6 +1,5 @@
-//Найти max{ min(a, b), min(c, d)}.
-
 package com.epam;
+//Найти max{ min(a, b), min(c, d)}.
 
 public class Task27c {
     public static void main(String[] args) {
