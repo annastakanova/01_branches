@@ -1,8 +1,7 @@
+package com.epam;
 //Составить программу нахождения наименьшего из квадратов двух чисел а и b
 
 //по сути, можно сравнивать и сами числа, а не квадраты, и выводить ответ про их квадраты
-
-package com.epam;
 
 public class Task08c {
     public static void main(String[] args) {
