@@ -1,6 +1,5 @@
-//Подсчитать количество отрицательных среди чисел а, b, с.
-
 package com.epam;
+//Подсчитать количество отрицательных среди чисел а, b, с.
 
 public class Task18c {
     public static void main(String[] args) {
