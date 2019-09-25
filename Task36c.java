@@ -1,8 +1,7 @@
+package com.epam;
 //Вычислить значение функции:
 // f(x) = x*x - 3*x + 9, если x<=3
 // f(x) = 1/(x*x*x + 6), если x>3
-
-package com.epam;
 
 public class Task36c {
     public static void main(String[] args) {
