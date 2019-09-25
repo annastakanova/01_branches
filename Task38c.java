@@ -1,9 +1,7 @@
+package com.epam;
 //Вычислить значение функции:
 // f(x) = x*x, если x>=0 и х<=3    //не исп
 // f(x) = 4, если x>3 или х<0
-
-
-package com.epam;
 
 public class Task38c {
     public static void main(String[] args) {
