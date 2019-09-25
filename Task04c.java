@@ -1,6 +1,5 @@
-//Составить программу: равны ли два числа а и b?
-
 package com.epam;
+//Составить программу: равны ли два числа а и b?
 
 public class Task04c {
     public static void main(String[] args) {
