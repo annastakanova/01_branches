@@ -1,8 +1,7 @@
-////Вычислить значение функции:
-//// f(x) = -Math.pow(x, 3) + 9, если x<=13
-//// f(x) = -3 / (x + 1), если x>13
-
 package com.epam;
+//Вычислить значение функции:
+// f(x) = -Math.pow(x, 3) + 9, если x<=13
+// f(x) = -3 / (x + 1), если x>13
 
 public class Task40c {
     public static void main(String[] args) {
